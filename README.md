@@ -1,4 +1,3 @@
-# Practical-programming-in-chemistry-semester-project-
 # Practical Programming in Chemistry — Semester Project
 
 > Semester project for **CH-200 / Practical Programming in Chemistry** at EPFL.
