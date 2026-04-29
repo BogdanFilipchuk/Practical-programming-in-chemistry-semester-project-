@@ -113,7 +113,7 @@ This project was developed as part of the CH-200 course at EPFL by:
 
 | Name | Email |
 |------|-------|
-| Maximus Vandenbogaard | [maximus.vandenbogaard@epfl.ch](mailto:maximus.vandenbogaard@epfl.ch) |
+| Maximus van den Bogaard | [maximus.vandenbogaard@epfl.ch](mailto:maximus.vandenbogaard@epfl.ch) |
 | Bogdan Filipchuk      | [bogdan.filipchuk@epfl.ch](mailto:bogdan.filipchuk@epfl.ch) |
 | Tuna Karasu           | [tuna.karasu@epfl.ch](mailto:tuna.karasu@epfl.ch) |
 | Andrey Babenko        | [andrey.babenko@epfl.ch](mailto:andrey.babenko@epfl.ch) |
